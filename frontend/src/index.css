@@ -1,1 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Fira+Code:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=LXGW+WenKai+Mono+TC&family=Manrope:wght@200..800&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Nabla&display=swap");
+
 @import "tailwindcss";
+
+@theme {
+    --font-inter: "Inter", sans-serif;
+}
